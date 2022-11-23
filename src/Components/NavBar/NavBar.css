@@ -1,0 +1,20 @@
+.header {
+    background-color: #000;
+    margin: 0;
+  }
+  .header .navbar-dark .navbar-nav .nav-link {
+    color: rgba(255, 255, 255, 0.55);
+  }
+  .header .navbar-dark .navbar-nav .nav-link:hover {
+    color: rgb(255, 255, 255);
+  }
+  .header .logo {
+    width: 64px;
+    height: 64px;
+    padding: 5px;
+  }
+
+  .title {
+    font-family: "Amatic SC", cursive;
+    font-weight: bolder;
+  }
