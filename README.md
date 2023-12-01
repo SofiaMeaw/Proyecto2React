@@ -1,7 +1,5 @@
 # Un Caos organizado e-commerce
 
-Este es un proyecto Realizado por Sofía Gomez Mata para el curso de React de Coderhouse.
-
 ## Sobre el proyceto
 
 Este proyecto está hecho en base a los productos de un potencial cliente, considerando su imagen de marca, estilos y necesidades. Está enfocado enrealizar la funcionalidad de compra ya que es parte importante para el sitio final.
